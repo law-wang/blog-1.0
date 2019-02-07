@@ -1,5 +1,6 @@
 <aside class="logo">
-
+	
+	<!--
 	{% if page.url == '/index.html' or page.url == '/' %}
 		{% assign link = '/about' %}
 		{% assign prompt = 'About the Author' %}
@@ -11,6 +12,21 @@
 	<a href="{{ link | prepend: site.baseurl | prepend: site.url }}">
 		<img src="{{ site.logo_url }}" class="logo-avatar">
 	</a>
+	<span class="logo-prompt code">{{ prompt }}</span>
+	/-->
+	
+	{% if page.url == '/index.html' or page.url == '/' %}
+		<a href="https://www.law-wang.com">
+		<img src="{{ site.logo_url }}" class="logo-avatar">
+		</a>
+		{% assign prompt = 'Lawrence Wang' %}
+	{% else %}
+		<a href="site.baseurl">
+		<img src="{{ site.logo_url }}" class="logo-avatar">
+		</a>		
+		{% assign prompt = 'Back' %}
+	{% endif %}
+
 	<span class="logo-prompt code">{{ prompt }}</span>
 
 </aside>
