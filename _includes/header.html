@@ -21,7 +21,7 @@
 		</a>
 		{% assign prompt = 'Lawrence Wang' %}
 	{% else %}
-		<a href="site.baseurl">
+		<a href="{{ link | prepend: site.baseurl }}">
 		<img src="{{ site.logo_url }}" class="logo-avatar">
 		</a>		
 		{% assign prompt = 'Back' %}
