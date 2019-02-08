@@ -32,7 +32,7 @@ h5,
 h6 {
     margin-bottom: 1rem;
     line-height: 1.25;
-    color: #e7bd74;
+    color: rgba(231, 189, 116, .6);
 }
 h1 {
   font-size: 2rem;
@@ -83,12 +83,12 @@ blockquote {
   position: relative;
   margin: 0 auto 35px;
   text-align: center;
-  animation-duration: 0.7s;
-  animation-fill-mode: both;
-  animation-name: bounce;
-  -webkit-animation-duration: 0.7s;
-  -webkit-animation-fill-mode: both;
-  -webkit-animation-name: bounce;
+  //animation-duration: 0.7s;
+  //animation-fill-mode: both;
+  //animation-name: bounce;
+  //-webkit-animation-duration: 0.7s;
+  //-webkit-animation-fill-mode: both;
+  //-webkit-animation-name: bounce;
   a {
     background: #2e2e2e url("logo_wrapper.png");
     color: #000;
@@ -101,7 +101,7 @@ blockquote {
     display: inline-block;
     text-align: center;
     line-height: 100px;
-    border: 5px solid #fff;
+    border: 5px solid #2e2e2e;
     box-sizing: border-box;
     &:hover,
     &:focus {
@@ -256,7 +256,7 @@ article {
   }
   .footnote {
     border: 0;
-    background-color: #e2e2e2;
+    background-color: #2e2e2e;
     color: #fff;
     padding-left: 2px;
     padding-right: 2px;
@@ -265,7 +265,7 @@ article {
     margin: 50px auto;
     display: block;
     font-size: 0.8em;
-    color: #e7bd74;
+    color: #777;
     p {
       line-height: 1rem;
       font-weight: normal;
@@ -283,8 +283,8 @@ article {
     }
   }
   a:hover {
-    color: #333;
-    border-color: #333;
+    color: #555;
+    border-color: #555;
   }
 }
 .back {
