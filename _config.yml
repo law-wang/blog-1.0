@@ -2,7 +2,7 @@
 title:              "LW"
 description:        "a stream of consciousness"
 author_name:        "Lawrence Wang" # change this to your name
-logo_url:           https://avatars0.githubusercontent.com/u/13794983?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+logo_url:           https://static1.squarespace.com/static/5b39c0cb7c93273d7754f5cd/t/5b3af0f36d2a7342144fdb3a/1530589429793/LW+%231+downsized-01.png?format=1000w # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
 url:                https://law-wang.github.io # main url
