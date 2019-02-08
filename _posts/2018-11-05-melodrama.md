@@ -1,6 +1,6 @@
 ---
 title: Melodrama: The Glamor and Trauma that Became Us
-updated: 2018-11-18 20:25
+updated: 2018-11-05 20:25
 ---
 ## Typography Elements in One
 
