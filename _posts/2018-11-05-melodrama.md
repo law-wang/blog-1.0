@@ -1,5 +1,5 @@
 ---
-title: For Example of very Long Title Would Be Typography Elements in One
+title: Melodrama: The Glamor and Trauma that Became Us
 updated: 2016-10-18 23:37
 ---
 ## Typography Elements in One
