@@ -1,4 +1,4 @@
 # lawrence wang
 
-> law-wang.github.io
-> law-wang.com
+law-wang.github.io
+law-wang.com
