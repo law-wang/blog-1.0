@@ -1,6 +1,9 @@
 ---
 title: Melodrama&#58; The Glamor and Trauma that Became Us
 updated: 2016-10-18 23:37
+published: false
+category: Music
+Tag: [Lorde, Pop]
 ---
 ## Typography Elements in One
 
