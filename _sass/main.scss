@@ -80,9 +80,12 @@ blockquote {
   background: #707070;
 }
 .logo {
-  position: relative;
-  margin: 0 auto 35px;
-  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  //position: relative;
+  //margin: 0 auto 35px;
+  //text-align: center;
   //animation-duration: 1.0s;
   //animation-fill-mode: both;
   //animation-name: bounce;
