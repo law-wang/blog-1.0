@@ -1,4 +1,5 @@
 # lawrence wang
 
-law-wang.github.io
-law-wang.com
+[Blog](http://law-wang.github.io)
+
+[Portfolio](http://law-wang.com)
