@@ -70,14 +70,14 @@ a {
   }
 }
 mark {
-  background: #fffc76;
+  background: #e7bd74;
   padding: 0 5px;
 }
 blockquote {
   border-left: 5px solid #ccc;
   margin: 40px 0;
   padding: 5px 30px;
-  background: #eee;
+  background: #707070;
 }
 .logo {
   position: relative;
@@ -90,7 +90,7 @@ blockquote {
   -webkit-animation-fill-mode: both;
   -webkit-animation-name: bounce;
   a {
-    background: #ddd url("logo_wrapper.png");
+    background: #2e2e2e url("logo_wrapper.png");
     color: #000;
     text-decoration: none;
     font-weight: 700;
@@ -173,7 +173,7 @@ sup {
   margin-left: 1px;
 }
 time {
-  color: #555;
+  color: #999;
 }
 code,
 pre,
@@ -182,8 +182,8 @@ pre,
   font-family: Consolas, monaco, monospace;
 }
 code {
-  color: #f14e32;
-  background: #eee;
+  color: #e7bd74;
+  background: #777;
   padding: 2px 6px;
   font-size: 13px;
 }
@@ -195,8 +195,8 @@ pre {
   line-height: 1.4;
   white-space: pre;
   overflow-x: auto;
-  background-color: #f9f9f9;
-  border: 1px solid #ddd;
+  background-color: #707070;
+  border: 1px solid #888;
   padding: 1rem;
   code {
     font-size: 100%;
@@ -210,12 +210,12 @@ table {
   table-layout: fixed;
   margin: 45px 0;
   thead {
-    background: #f2f2f2;
+    background: #777;
   }
   th {
     text-align: left;
     padding: 8px 10px;
-    border-bottom: 15px solid #fff;
+    border-bottom: 15px solid #909090;
   }
   td {
     padding: 4px 0;
@@ -234,9 +234,9 @@ article {
   }
   .divider {
     background: #ddd;
-    background: -webkit-gradient(linear,left top,right top,from(rgba(255,255,255,0)),color-stop(#ccc),to(rgba(255,255,255,0)));
-    background: -webkit-linear-gradient(left,rgba(255,255,255,0),#ccc,rgba(255,255,255,0));
-    background: linear-gradient(to right,rgba(255,255,255,0),#ccc,rgba(255,255,255,0));
+    background: -webkit-gradient(linear,left top,right top,from(rgba(221,221,221,0)),color-stop(#ccc),to(rgba(221,221,221,0)));
+    background: -webkit-linear-gradient(left,rgba(221,221,221,0),#ccc,rgba(221,221,221,0));
+    background: linear-gradient(to right,rgba(221,221,221,0),#ccc,rgba(221,221,221,0));
     height: 1px;
     margin: 2em 0;
   }
@@ -256,7 +256,7 @@ article {
   }
   .footnote {
     border: 0;
-    background-color: #0087BE;
+    background-color: #e2e2e2;
     color: #fff;
     padding-left: 2px;
     padding-right: 2px;
@@ -265,7 +265,7 @@ article {
     margin: 50px auto;
     display: block;
     font-size: 0.8em;
-    color: #666;
+    color: #e7bd74;
     p {
       line-height: 1rem;
       font-weight: normal;
@@ -279,12 +279,12 @@ article {
     }
     .reversefootnote {
       border: 0;
-      color: #0087BE;
+      color: #e7bd74;
     }
   }
   a:hover {
-    color: #369;
-    border-color: #369;
+    color: #333;
+    border-color: #333;
   }
 }
 .back {
@@ -298,7 +298,7 @@ article {
     &:before {
       content: "<<";
       margin-right: 5px;
-      color: #000;
+      color: #fff;
     }
   }
 }
