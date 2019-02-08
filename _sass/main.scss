@@ -350,7 +350,7 @@ section {
       a {
         text-decoration: none;
         border: 0;
-        color: #999;
+        color: #fff;
         box-sizing: border-box;
       }
       .post-date {
@@ -366,7 +366,7 @@ section {
       @media (min-width: 992px) {a {
           border-bottom: 2px solid transparent;
           &:hover {
-            border-color: #999;
+            border-color: #fff;
           }
         }
       }
