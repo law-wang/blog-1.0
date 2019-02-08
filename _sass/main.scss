@@ -129,10 +129,10 @@ blockquote {
     vertical-align: middle;
     padding: 5px;
     border-radius: 3px;
-    background: #666;
-    background: rgba(0,0,0,.5);
+    background: #2e2e2e;
+    background: rgba(46,46,46,.5);
     margin-left: 15px;
-    color: #fff;
+    color: #2e2e2e;
     font-size: 0.8235em;
     text-align: center;
     line-height: 1.2;
@@ -142,8 +142,8 @@ blockquote {
       content: "";
       border-width: 5px 5px 5px 0;
       border-style: solid;
-      border-color: transparent #666;
-      border-color: transparent rgba(0,0,0,.5);
+      border-color: transparent #2e2e2e;
+      border-color: transparent rgba(46,46,46,.5);
       position: absolute;
       top: 50%;
       left: -5px;
