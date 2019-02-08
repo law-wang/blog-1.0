@@ -91,11 +91,11 @@ blockquote {
   -webkit-animation-name: bounce;
   a {
     background: #2e2e2e url("logo_wrapper.png");
-    color: #000;
+    color: #2e2e2e;
     text-decoration: none;
     font-weight: 700;
-    height: 100px;
-    width: 100px;
+    height: 500px;
+    width: 500px;
     font-size: 1.5em;
     border-radius: 100%;
     display: inline-block;
@@ -112,7 +112,7 @@ blockquote {
       display: inline-block !important;
     }
     .logo-avatar {
-      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+      box-shadow: 0 1px 3px rgb(46, 46, 46);
       -webkit-border-radius: 50%;
       -moz-border-radius: 50%;
       border-radius: 50%;
