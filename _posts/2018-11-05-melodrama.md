@@ -1,7 +1,7 @@
 ---
 title: Melodrama: The Glamor and Trauma that Became Us
 updated: 2018-11-18 20:25
-published: true
+published: false
 category: Music
 Tag: [Lorde, Pop]
 ---
