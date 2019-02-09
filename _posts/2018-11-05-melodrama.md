@@ -37,7 +37,7 @@ Yet we can't help but reminiscing the magic and love and tender touches in the c
 > All of the shit that we harbour,  
 > But you're not what you thought you were.
 
-So in the grand finale, we dump it all away in Perfect Places. In a sense, this last track summarizes the entire story, from the party to the fragility, from the love to no-more-love. In the graceless night, we are wild and young for the one last time. _Dancing. Proclaiming we are all-right. Yelling to the heavens, trying to prove the perfect place that doesn’t exist._ We try to get there, but we never will. We are doomed to fail, but we carry on. And isn’t precisely this kind of valor, of trying in spite of challenges that is so admirable the transition from adolescence into adulthood?
+So in the grand finale, we dump it all away in Perfect Places. In a sense, this last track summarizes the entire story, from the party to the fragility, from the love to no-more-love. In the graceless night, we are wild and young for the one last time. _Dancing. Proclaiming we are all-right. Yelling to the heavens, trying to prove the perfect place that doesn’t exist._ We try to get there, but we never will. We are doomed to fail, but we carry on. And isn’t precisely this kind of valor, of trying in spite of challenges that is so admirable about the transition from adolescence into adulthood?
 
 <div class="divider"></div>
 
