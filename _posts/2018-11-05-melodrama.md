@@ -26,21 +26,15 @@ Of course, love and breakups are quintessential to any grow up story. The remark
 ## From the End of One to the Start of Another 
 
 The theme is then reinforced through Sober II (Melodrama) and Writer In The Dark. The love ends, romance is succeeded by melodrama. In the blinding fumes of accusations, we realize that we always knew we would end up here; it’s only in the psycho-high kind of self-indulgence did we forget that:
-> They'll talk about us, all the lovers
->  
-> How we kiss and kill each other.
->  
-> They'll talk about us, and discover
->  
+> They'll talk about us, all the lovers  
+> How we kiss and kill each other.  
+> They'll talk about us, and discover  
 > How we kissed and killed each other.
 
 Yet we can't help but reminiscing the magic and love and tender touches in the car that characterized the summertimes, before the blizzard hit the town and we had to board up the windows and retreat into solitude. And in that contemplation, we arrive at the conclusion:
-> All of the dreams that get harder,
->  
-> All of the things that I offer you,
->  
-> All of the shit that we harbour,
->  
+> All of the dreams that get harder,  
+> All of the things that I offer you,  
+> All of the shit that we harbour,  
 > But you're not what you thought you were.
 
 So in the grand finale, we dump it all away in Perfect Places. In a sense, this last track summarizes the entire story, from the party to the fragility, from the love to no-more-love. In the graceless night, we are wild and young for the one last time. _Dancing. Proclaiming we are all-right. Yelling to the heavens, trying to prove the perfect place that doesn’t exist._ We try to get there, but we never will. We are doomed to fail, but we carry on. And isn’t precisely this kind of valor, of trying in spite of challenges that is so admirable the transition from adolescence into adulthood?
