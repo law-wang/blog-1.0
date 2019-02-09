@@ -11,6 +11,8 @@ If _Pure Heroine_ was about teenage Lorde’s idea of maturity, her imagination 
 
 Jack Antonoff’s production adds another coating of complexity and unforgettable projection to Lorde’s end-of-adolescence state of mind: the youth slipping away on the light-up floor, the secluded utopia of careless parties, the love that burns so bright and then breaks into pieces. It touches the solemn and fateful side of this initiation rite of adulthood.
 
+<div class="divider"></div>
+
 ## A Never-Ending Party
 
 Now if _Melodrama_ were a party, then Green Light marks the start of the journey of a “drunk girl at the party dancing around crying about her ex-boyfriend who everyone thinks is a mess.” The lead single has such a sense of finality to it, opening the album with a mysterious, cool-colored yet charming story of a new beginning. The mindless carousing continues even though no one knows what might happen when they’re Sober. Or perhaps “pretending that we don’t care” is just another part of adulthood? After all, “going astray with me” is only an attitude to life. Yes, leaving in the morning will hurt, hearts will ache, but why not take this moment to dance with us? Perhaps losing a bit of our minds will be good for us.
@@ -18,6 +20,8 @@ Now if _Melodrama_ were a party, then Green Light marks the start of the journey
 Liability is the turning point, the moment of self-reflective weakness. In the dead of night, as the party continues, we go off to the bathroom and see ourselves in the mirror— the terrible, mess of a self. And we realize the horrifying, underlying truth— what exactly does it take to grow up? Compromising our identity? Exposing the most delicate parts ourselves to the devouring of others? That’s when the revelation comes so strikingly poignant: as the lights turn on and the people go home, as we lose ourselves in the distrust and cold-shoulder of others, as the youthful part of ourselves, the innocent dreams of past time depart and fade away in the waters borne ceaselessly into the past, what do we have left?
 
 Of course, love and breakups are quintessential to any grow up story. The remarkable romanticism of the album is apparent in The Louvre through the literary devices: the personification of summer, the days and nights that are “perfumed” with obsession present the beauty of an endearing love. Yet as suggested by the uneasy beats of the track, that beauty, so alarmingly coated in sacrifice, eventually will fall apart. With the somber recount of the aftermath of the break up in Hard Feelings, we are introduced to the winter, the death of the rushing feelings that were once so strong, so domineering, so relentless. Ultimately, as comfortable as being underneath summer’s tongue was, there comes a day when we all have to let go of that endless summer afternoon.
+
+<div class="divider"></div>
 
 ## From the End of One to the Start of Another 
 
@@ -40,6 +44,8 @@ Yet we can't help but reminiscing the magic and love and tender touches in the c
 > But you're not what you thought you were.
 
 So in the grand finale, we dump it all away in Perfect Places. In a sense, this last track summarizes the entire story, from the party to the fragility, from the love to no-more-love. In the graceless night, we are wild and young for the one last time. _Dancing. Proclaiming we are all-right. Yelling to the heavens, trying to prove the perfect place that doesn’t exist._ We try to get there, but we never will. We are doomed to fail, but we carry on. And isn’t precisely this kind of valor, of trying in spite of challenges that is so admirable the transition from adolescence into adulthood?
+
+<div class="divider"></div>
 
 ## Melodrama and Us
 
