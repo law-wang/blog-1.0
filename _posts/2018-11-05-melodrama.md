@@ -5,6 +5,8 @@ published: true
 category: Music
 tag: [Lorde, Pop]
 ---
+![Cover](http://www.thepacepress.org/site/wp-content/uploads/2017/06/melodrama-readdork.jpg)
+
 If _Pure Heroine_ was about teenage Lorde’s idea of maturity, her imagination of what the adult world must be like, then her sophomore album is precisely the opposite. _Melodrama_ is cool— the toned quality materializes through the predominantly blue album art. And with this record, the brilliant facade of the adult world peels off layer by layer, until all that’s left is the delicate, jaded, melancholic core.
 
 Jack Antonoff’s production adds another coating of complexity and unforgettable projection to Lorde’s end-of-adolescence state of mind: the youth slipping away on the light-up floor, the secluded utopia of careless parties, the love that burns so bright and then breaks into pieces. It touches the solemn and fateful side of this initiation rite of adulthood.
