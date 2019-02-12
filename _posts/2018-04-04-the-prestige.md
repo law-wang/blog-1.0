@@ -28,6 +28,8 @@ Angier started with a pure love for magic, so decided to assume a fake identity 
 
 Often times we are told that if we live the life prescribed to us, we’d be losing our identity. But how often do we consider the possibility of losing our true self on the way to personal freedom and validation? Maybe in the end, what matters is not the conflict between freedom or tradition, but that when we look back as we are halfway through our lives, we can still confidently say that we never strayed.
 
+<div class="divider"></div>
+
 # Human? Human.
 
 From a cinematic point of view, Nolan completely nailed the narrative and script. The story is beautifully crafted, but also one I find hard to bring myself to like. The performances of Christian Bale and Jack Hughman are beyond amazing. Yet while watching it on my 6-hour flight from LA to NYC, I couldn’t help but abhor the characters. They are all incredibly hateful, incredibly possessive, competitive, the darkest possible portrayal of human nature. 
@@ -35,6 +37,8 @@ From a cinematic point of view, Nolan completely nailed the narrative and script
 Angier and Borden’s idea of obsession sucks every last drop of kindness from them and leaves them with nothing more than an empty, antihuman shell. Their vengeance paints them completely black, without any hint of the sparkly color of humanity. Even though the script actively tries to bring in elements such as children and birds and love, the story as a whole turns out to be entirely grim and cold, chilling to the bones. 
 
 Yet in the end, however, it’s hard to say that they are not human. The competition between Borden and Angier composes a nasty, twisted tale of human dissatisfaction and selfishness, but it is still humanity. There’s the positive side of humanity, but also the negative side. No one can say they’ve never been obsessed, or selfish, or hurt others in our way to success. Perhaps we are all in this together. The film merely amplifies that. It may be dark, but it’s still human.
+
+<div class="divider"></div>
 
 # Final Words
 
