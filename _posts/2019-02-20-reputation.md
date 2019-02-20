@@ -1,16 +1,12 @@
 ---
 title: Reputation&#58; Was It a Flop?
-updated: 2019-02-19 12:46
+updated: 2019-02-20 12:46
 published: true
 category: Music
 tag: [Taylor Swift, Pop]
 ---
 
 ![Cover](https://static1.squarespace.com/static/55cb5414e4b0c0f75a3e7c4d/t/5a10f17771c10ba5531af53c/1511059918416/taylor-swift-bio1.jpg?format=1000w)
-
-![Cover](https://seatgeek.com/tba/wp-content/uploads/2017/08/taylor-swift_promo.png)
-
-![Cover](https://images.dailyhive.com/20171113082227/Taylor-Swift-Toronto-concert.jpg)
 
 _Reputation_ was the biggest album of 2018. There’s absolutely no doubt in that. It is also the best selling album of 2017. There’s no doubt in that either. But ever since its release, the media and others have criticized it as being Swift’s biggest flop in her career. But is it really? The simple answer is **_no_**. But if we dive deeper into the undercurrents, perhaps we would see the essence of the album more clearly.
 
@@ -27,6 +23,8 @@ As the summer of 2016 unraveled, Swift’s “American Sweetheart” image shatt
 The friends she once had, or partied with, or went on the Victoria’s Secret runway with, or made music videos with turned against her. The media that once adored and supported her slandered her. The innocently misled public again showed their viciousness and flooded her social media with the snake emoji. And although it’s impossible for us outsiders to know what really happened underneath the drama, it’s undeniable that the happenstances of that summer seriously affected Swift and fueled the creation of this album.
 
 <div class="divider"></div>
+
+![Cover](https://seatgeek.com/tba/wp-content/uploads/2017/08/taylor-swift_promo.png)
 
 ## The Album
 
@@ -58,15 +56,9 @@ She leaves him with no regret. Takes the money and the keys.  Just like how she 
 
 In the first half of the album, Swift discusses reputation and dreams of revenge in tracks shrouded with a dark, industrial voltage. Yet in the second half, she continues the iconic vibe of 1989 that pushes the passion of love to momentous heights. She climbed up the ruins of her wounded reputation, and then found salvation in love— that’s a concept that everyone can relate to. Thus, the listening experience is the audience’s journey, along with Swift, to find the exit to the pain and the gleaming sun of a newfound comfort.
 
-![Section](https://www.philly.com/resizer/aDjqN0LW_l-NmG96oVQuPCcpjX8=/1400x0/center/middle/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/T45JUACWFNFHJLT23COTJZ3K6M.jpg)
-
-
-![Section](https://assets.teenvogue.com/photos/5ae2102e7ec0444ce4daa3b1/16:9/w_1280,c_limit/lede.jpg)
-
-![Section](https://www.etonline.com/sites/default/files/images/2018-05/et_050818_taylorswiftvp.png)
-
-
 <div class="divider"></div>
+
+![Section](https://www.philly.com/resizer/aDjqN0LW_l-NmG96oVQuPCcpjX8=/1400x0/center/middle/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/T45JUACWFNFHJLT23COTJZ3K6M.jpg)
 
 ## The Verdict
 
