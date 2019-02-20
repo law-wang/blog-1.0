@@ -31,28 +31,28 @@ The friends she once had, or partied with, or went on the Victoria’s Secret ru
 ## The Album
 
 As such, she took a one year break from releasing material, which was unprecedented to say the least and severely hampered her systematic release schedule. But then came _Reputation_, an introspective saga about the aftermath of the collapse of a pop queen’s impeccable reputation— the entire album feels more like Swift’s journey of making peace with the taint in her public image than a traditional love-pop album or diss album. She starts her journey with no sense of remorse whatsoever in I Did Something Bad and Don’t Blame Me:
-> But if he drops my name, then I owe him nothin'
-> And if he spends my change, then he had it comin'
-> Don't blame me, love made me crazy
-> If it doesn't, you ain't doin' it right
+> But if he drops my name, then I owe him nothin'   
+> And if he spends my change, then he had it comin'   
+> Don't blame me, love made me crazy    
+> If it doesn't, you ain't doin' it right   
 
 But gradually, that strength she feigns and desire for vengeance seems to fade away, as she scores a new love, a love that is delicate and pure, yet unbreakable by the rumors and defamation. The mid-album songs, such as Gorgeous, King of My Heart, and Dancing With Our Hands Tied, give off a 1989-ish sentiment regarding love, although presented with choppier and darker songwriting. Towards the end of the album, time and love together have been able to heal the scars left behind by the smearing criticisms. In This Is Why We Can’t Have Nice Things, Swift makes snarky remarks that point at specific people:
-> Friends don't try to trick you
-> Get you on the phone and mind-twist you /
-> But I'm not the only friend you've lost lately
-> If only you weren't so shady
+> Friends don't try to trick you  
+> Get you on the phone and mind-twist you   
+> But I'm not the only friend you've lost lately  
+> If only you weren't so shady  
 
 Through joking about the agony and injury of the past, she proves that she has grown, that she is indeed beyond the drama, that she has let it go like clouds blown away by the winter wind. Call It What You Want is the final statement that marks the attitude of the Reputation era. Her castle of friends that she used to fortify herself against her insecurities crumbled. Her unpreparedness in the fight forecasted her defeat. She lost her crown, yet in the end, she found something greater. She lost her impeccable reputation, but that’s alright, because she’s stronger now, and the media can really just call it what they want.
 
 Sonically speaking, the album mixes elements that are indeed new to Taylor Swift albums, with a greater emphasis on electronic and hip-hop influences. Lyrically speaking, the album is as strong as ever, and Getaway Car is the prime example of that. The entire song tells such a vivid and convincing story of a love that was doomed to fail since its conception. The contrasting colors create an ominous atmosphere while the couplets forge a rhyme scheme that strongly aligns with the beat. The lines easily morph into visuals:
-> Well, he was runnin' after us, I was screamin’, "Go, go, go!"
+> Well, he was runnin' after us, I was screamin’, "Go, go, go!"   
 > But with three of us, honey, it's a sideshow
 
 And my personal favorite part comes with the bridge:
-> I'm in a getaway car
-> I left you in a motel bar
-> Put the money in a bag and I stole the keys
-> That was the last time you ever saw me
+> I'm in a getaway car    
+> I left you in a motel bar   
+> Put the money in a bag and I stole the keys   
+> That was the last time you ever saw me    
 
 She leaves him with no regret. Takes the money and the keys.  Just like how she rode in the car, cried in the car, flew in the car, now she’ll leave in the car. With a light push on the gas pedal and she’s gone, leaving the dusts dancing behind the getaway car. The story is fateful, and brutally honest, the exact same brand of honesty in storytelling that serves as the hallmark of all her songs.
 
