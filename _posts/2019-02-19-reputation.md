@@ -1,6 +1,6 @@
 ---
 title: Reputation&#58; Was It a Flop?
-updated: 2019-02-20 12:46
+updated: 2019-02-19 12:46
 published: true
 category: Music
 tag: [Taylor Swift, Pop]
