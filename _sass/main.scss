@@ -123,6 +123,13 @@ blockquote {
       -moz-border-radius: 50%;
       border-radius: 50%;
     }
+    .nounderline {
+       text-decoration: none; 
+      &:hover {
+        color: rgb(231, 189, 116);
+        transition: .5s;
+      }
+    }
     @media (max-width : 480px) {&:hover + .logo-prompt,
       &:focus + .logo-prompt {
         display: none !important;
