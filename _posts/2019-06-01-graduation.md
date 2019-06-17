@@ -1,7 +1,7 @@
 ---
 title: Commencement Address&#58; Lessons I Learned
 updated: 2019-06-01 12:01
-published: false
+published: true
 category: Personal
 tag: [Reflection, Featured]
 ---
@@ -28,4 +28,4 @@ Thank you for all the memories, Class of 2019, I am so glad to have had all of y
 
 <div class="divider"></div>
 
-Delivered May 31, 2019 at the Commencement Ceremony for Troy High School as Valedictorian for the Class of 2019.
+Delivered May 31, 2019 at the Commencement Ceremony for Troy High School as valedictorian for the Class of 2019.
