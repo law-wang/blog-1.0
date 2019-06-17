@@ -16,7 +16,7 @@ Intricate details like this offer bits of brain-burning fun, as we struggle to p
 
 <div class="divider"></div>
 
-# The Tragedy
+## The Tragedy
 
 Aside from the interweaving narratives, the film closely follows the central idea of passion and its toxic byproduct, obsession. The protagonists, Angier and Borden, are obsessed with magic, an obsession that transcends their worldly status and human limitations. They are plagued by a blinding desire that created a cognitive dissonance and littered them mental stability, driving them into the abyss of sacrifice.
 
@@ -30,7 +30,7 @@ Often times we are told that if we live the life prescribed to us, we’d be los
 
 <div class="divider"></div>
 
-# Human? Human.
+## Human? Human.
 
 From a cinematic point of view, Nolan completely nailed the narrative and script. The story is beautifully crafted, but also one I find hard to bring myself to like. The performances of Christian Bale and Jack Hughman are beyond amazing. Yet while watching it on my 6-hour flight from LA to NYC, I couldn’t help but abhor the characters. They are all incredibly hateful, incredibly possessive, competitive, the darkest possible portrayal of human nature. 
 
@@ -40,7 +40,7 @@ Yet in the end, however, it’s hard to say that they are not human. The competi
 
 <div class="divider"></div>
 
-# Final Words
+## Final Words
 
 What I found to be particularly interesting is the monologue:
 
