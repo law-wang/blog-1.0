@@ -3,7 +3,7 @@ title: Melodrama&#58; The Glamour and Trauma Became Us
 updated: 2016-06-05 23:37
 published: true
 category: Music
-tag: [Lorde, Pop]
+tag: [Lorde, Pop, Featured]
 ---
 ![Cover](http://www.thepacepress.org/site/wp-content/uploads/2017/06/melodrama-readdork.jpg)
 
