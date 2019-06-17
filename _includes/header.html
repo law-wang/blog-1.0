@@ -14,7 +14,7 @@
 	</a>
 	<span class="logo-prompt code">{{ prompt }}</span>
 	/-->
-	
+	<!--
 	{% if page.url == '/index.html' or page.url == '/' %}
 		<a href="https://www.law-wang.com">
 		<img src="{{ site.logo_url }}" class="logo-avatar">
@@ -26,21 +26,12 @@
 		</a>		
 		{% assign prompt = 'Back' %}
 	{% endif %}
-
+	/-->
+		<a href="{{ link | prepend: site.baseurl }}">
+		<img src="{{ site.logo_url }}" class="logo-avatar">
+		</a>		
+		{% assign prompt = 'Back' %}
 	<span class="logo-prompt code">{{ prompt }}</span>
 	
-	<!--
-	<nav class="nav">
-    		<ul class="nav-list">
-      			<li class="nav-item">
-        			<a href="{{ site.url }}/">home</a>
-      			</li>
-      			{% for page in site.pages %} {% if page.title %}
-      			<li class="nav-item">
-        			<a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a>
-      			</li>
-      			{% endif %} {% endfor %}
-    		</ul>
-  	</nav>
-	/-->
+
 </aside>
