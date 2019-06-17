@@ -7,7 +7,7 @@ tag: [Reflection, Featured]
 ---
 
 Ladies and gentlemen, teachers, administrators, Class of 2019, good evening. It is an absolute honor to be here. Six years ago, when I arrived in America, quite literally “fresh off the boat,” I never imagined I would be standing here. When I first stepped foot on Troy’s campus, I was entirely clueless about my future. Now, standing here at graduation, I know exactly the direction I'm going in life! Just kidding, I’m just as clueless as freshman year, but I do know that my experiences at Troy will serve as the foundation of whatever I decide to do in the future.
-
+<br/><br/>
 
 The past 4 years have been enlightening to say the least. I personally cannot count how many Spanish presentations I made (well at least now I know 15 is quince and not diecicinco), I learned that sometimes diamonds are produced from the pressures of procrastination, and who would’ve thought that the difficult times at Troy might actually bring people together! 
 
