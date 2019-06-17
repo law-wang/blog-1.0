@@ -3,6 +3,13 @@
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
+
+<style type="text/css">
+.nobull {
+list-style-type: none;
+}
+</style>
+
 html {
   margin: 0;
   padding: 0;
