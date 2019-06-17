@@ -3,7 +3,7 @@ title: The Prestige&#58; Twisted Obsessions
 updated: 2018-04-04 14:16
 published: true
 category: Movie
-tag: [The Prestige, Nolan]
+tag: [The Prestige, Nolan, Featured]
 ---
 
 ![Cover](https://static1.squarespace.com/static/5b39c0cb7c93273d7754f5cd/t/5be930fc0ebbe885c5ad1683/1542009132104/the_prestige.jpg?format=1500w)
