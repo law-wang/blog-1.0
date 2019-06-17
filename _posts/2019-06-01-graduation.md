@@ -37,4 +37,4 @@ Thank you for all the memories, Class of 2019, I am so glad to have had all of y
 
 <div class="divider"></div>
 
-Delivered May 31, 2019 at the Commencement Ceremony for Troy High School as valedictorian for the Class of 2019.
+Delivered May 31, 2019 at Troy High School's Commencement Ceremony as valedictorian for the Class of 2019.
