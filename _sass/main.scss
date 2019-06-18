@@ -351,6 +351,20 @@ section {
     list-style: none;
     margin: 0;
     padding: 0;
+    li.noline {
+      margin: 25px 0;
+      a {
+        text-decoration: none;
+        border: 0;
+        color: #fff;
+        box-sizing: border-box;
+      }
+      @media (min-width: 992px) {
+        a {
+          border-bottom: 2px solid transparent;
+        }
+      }
+    }
     li {
       margin: 25px 0;
       .title {
@@ -376,7 +390,8 @@ section {
         letter-spacing: 1px;
         text-transform: uppercase;
       }
-      @media (min-width: 992px) {a {
+      @media (min-width: 992px) {
+        a {
           border-bottom: 2px solid transparent;
           &:hover {
             border-color: #fff;
