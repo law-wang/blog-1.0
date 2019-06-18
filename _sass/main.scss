@@ -78,8 +78,6 @@ a.nounderline {
         //border: 1px solid rgb(231, 189, 116);
         transition: .5s;
       }
-      &:before {
-      }
 }
 mark {
   background: #e7bd74;
@@ -177,6 +175,14 @@ ul {
         border: 0;
         color: #fff;
         box-sizing: border-box;
+      }
+      a.nounderline {
+        text-decoration: none!important; 
+        &:hover {
+          color: rgb(231, 189, 116);
+          //border: 1px solid rgb(231, 189, 116);
+          transition: .5s;
+        }
       }
       @media (min-width: 992px) {
         a {
