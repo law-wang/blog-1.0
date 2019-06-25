@@ -3,7 +3,7 @@ title: Commencement Address&#58; Lessons I Learned
 updated: 2019-06-01 12:01
 published: true
 category: Personal
-tag: [Featured]
+tag: [Featured, Reflection]
 ---
 
 Ladies and gentlemen, teachers, administrators, Class of 2019, good evening. It is an absolute honor to be here. Six years ago, when I arrived in America, quite literally “fresh off the boat,” I never imagined I would be standing here. When I first stepped foot on Troy’s campus, I was entirely clueless about my future. Now, standing here at graduation, I know exactly the direction I'm going in life! Just kidding, I’m just as clueless as freshman year, but I do know that my experiences at Troy will serve as the foundation of whatever I decide to do in the future.
@@ -31,10 +31,10 @@ But don’t ever let those obstacles sidetrack you, because it may be a fight to
 <br/><br/>
 
 So don't become discouraged when the suffocating reality comes crashing down. Sometimes dreams are broken to make space for new ones. They represent a direction, but they’re not always the destination. Perhaps we don’t grow toward them, or for them. We grow to exceed them. Maybe we’re not quite ready for them today, but I know we’ll be ready _someday_. If we don’t get there, we’ll get _somewhere_. And I hope that the belief in someday, the dream of somewhere, will be our solace in midst of the ceaseless cluelessness of life.
-<br/><br/>
+<br/>
 
 Thank you for all the memories, Class of 2019, I am so glad to have had all of you.
 
 <div class="divider"></div>
 
-Delivered May 31, 2019 at Troy High School's Commencement Ceremony as valedictorian for the Class of 2019.
+_Delivered May 31, 2019 at Troy High School's Commencement Ceremony as valedictorian for the Class of 2019._
