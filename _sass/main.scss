@@ -9,6 +9,7 @@ html {
   padding: 0;
   height: 100%;
 }
+
 body {
   width: 100%;
   font-size: 14px;
@@ -19,6 +20,7 @@ body {
   color: #ffffff;
   background-color: #2e2e2e;
   padding: 20px;
+  padding-top: 60px;
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
@@ -26,6 +28,7 @@ body {
     padding: 35px 50px;
   }
 }
+
 h1,
 h2,
 h3,
@@ -34,7 +37,7 @@ h5,
 h6 {
     margin-bottom: 1rem;
     line-height: 1.25;
-    color: rgb(231, 189, 116);
+    color: #aaa;
 }
 h1 {
   font-size: 2rem;
@@ -80,7 +83,8 @@ a.nounderline {
       }
 }
 mark {
-  background: #e7bd74;
+  //background: #e7bd74;
+  background: #aaa;
   padding: 0 5px;
 }
 blockquote {
@@ -90,31 +94,17 @@ blockquote {
   background: #707070;
 }
 .logo {
-  //display: block;
-  //margin-left: auto;
-  //margin-right: auto;
-  //width: 60%;
-  position: relative;
-  margin: 0 auto 35px;
   text-align: center;
-  //animation-duration: 1.0s;
-  //animation-fill-mode: both;
-  //animation-name: bounce;
-  //-webkit-animation-duration: 1.0s;
-  //-webkit-animation-fill-mode: both;
-  //-webkit-animation-name: bounce;
   a {
     background: #2e2e2e;
     color: #2e2e2e;
     text-decoration: none;
     font-weight: 700;
-    height: 300px;
     width: 300px;
     font-size: 1.5em;
     border-radius: 100%;
     display: inline-block;
     text-align: center;
-    line-height: 100px;
     border: 5px solid #2e2e2e;
     box-sizing: border-box;
     &:focus {
@@ -124,43 +114,11 @@ blockquote {
     &:focus + .logo-prompt {
       display: inline-block !important;
     }
-    .logo-avatar {
-      box-shadow: 0 1px 3px rgb(46, 46, 46);
-      -webkit-border-radius: 50%;
-      -moz-border-radius: 50%;
-      border-radius: 50%;
-    }
-    @media (max-width : 480px) {&:hover + .logo-prompt,
+    @media (max-width : 480px) {
+      &:hover + .logo-prompt,
       &:focus + .logo-prompt {
         display: none !important;
       }
-    }
-  }
-  .logo-prompt {
-    position: absolute;
-    display: none;
-    vertical-align: middle;
-    padding: 5px;
-    border-radius: 3px;
-    background: #2e2e2e;
-    background: rgba(46,46,46,.5);
-    margin-left: 15px;
-    color: #2e2e2e;
-    font-size: 0.8235em;
-    text-align: center;
-    line-height: 1.2;
-    top: 50%;
-    margin-top: -10px;
-    &:before {
-      content: "";
-      border-width: 5px 5px 5px 0;
-      border-style: solid;
-      border-color: transparent #2e2e2e;
-      border-color: transparent rgba(46,46,46,.5);
-      position: absolute;
-      top: 50%;
-      left: -5px;
-      margin-top: -5px;
     }
   }
 }
@@ -260,6 +218,7 @@ table {
 iframe {
   width: 100%;
 }
+
 article {
   max-width: 500px;
   margin: 0 auto 50px auto;
@@ -378,9 +337,6 @@ section {
       margin: 25px 0;
       .title {
         max-width: 100%;
-        //overflow: hidden !important;
-        //text-overflow: ellipsis !important;
-        //white-space: nowrap !important;
         word-wrap: normal !important;
       }
       a {
